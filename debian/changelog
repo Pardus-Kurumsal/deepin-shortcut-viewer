@@ -1,5 +1,6 @@
-deepin-shortcut-viewer (1.0-1) unstable; urgency=medium
+deepin-shortcut-viewer (1.3.1-1) zesty; urgency=low
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  [ shuttle ]
+  * Auto Version update.
 
- -- Deepin Packages Builder <packages@deepin.com>  Mon, 01 Aug 2016 16:27:54 +0800
+ -- lilongyu <leaeasy@gmail.com>  Thu, 03 Aug 2017 10:16:21 +0800
